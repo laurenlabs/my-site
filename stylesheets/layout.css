@@ -16,7 +16,36 @@
 
 /* #Site Styles
 ================================================== */
+body {
+	background-image:url('../images/gray ombre chevron.jpg');
+}
 
+.centertext{
+	text-align: center;
+}
+.redborder {
+		border: 5px solid #ff3366;
+    background-color: #ffffff;
+    margin-top: 10px;
+}
+.container .fixmargin {
+		float:right;
+}
+
+.container .columns {
+	margin-right: 0;
+}
+
+.rubyshirt {
+	max-height: 340px;
+	max-width: 340px;
+}
+
+footer {
+	color: #181818;
+	text-align: center;
+	padding-top: 15px;
+}
 /* #Page Styles
 ================================================== */
 

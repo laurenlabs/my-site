@@ -8,4 +8,4 @@ Originally created for GDI workshop in February 2014
 
 =======
 
-Refactored for responsive design using [Skeleton](http://www.getskeleton.com/)
+Refactored for responsive design using [Skeleton](http://www.getskeleton.com/) July 2014

@@ -1,20 +1,20 @@
 <!--
 var image1=new Image()
-image1.src="IMG_2211.JPG"
+image1.src="images/IMG_2211.JPG"
 var image2=new Image()
-image2.src="IMG_2221.JPG"
+image2.src="images/IMG_2221.JPG"
 var image3=new Image()
-image3.src="IMG_2215.JPG"
+image3.src="images/IMG_2215.JPG"
 var image4=new Image()
-image4.src="IMG_2223.JPG"
+image4.src="images/IMG_2223.JPG"
 var image5=new Image()
-image5.src="IMG_2225.JPG"
+image5.src="images/IMG_2225.JPG"
 var image6=new Image()
-image6.src="IMG_2227.JPG"
+image6.src="images/IMG_2227.JPG"
 var image7=new Image()
-image7.src="IMG_2238.JPG"
+image7.src="images/IMG_2238.JPG"
 var image8=new Image()
-image8.src="IMG_2241.JPG"
+image8.src="images/IMG_2241.JPG"
 //-->
 
 <!--
